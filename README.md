@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on my own clothing and accessories business 🧢
 - 🌱 I’m currently learning to program  💻, to discover this new world..
 - ⚡ Fun fact: I really like traveling 🛣️, especially to the mountains ⛰️, running and drinking mate 🧉  at different times or landscapes  🌆.
-- 
 - Skills
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matiasikaczijk" alt="matiasikaczijk" /></a> </p>
 
